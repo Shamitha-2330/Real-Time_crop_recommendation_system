@@ -1,5 +1,5 @@
 #config.py
-API_KEY = "4dddddafa38442bf9db174038251911"
+API_KEY = "Your_weatherapi_key"
 WEATHER_BASE_URL = "https://api.weatherapi.com/v1"
 
 
@@ -31,21 +31,21 @@ POSTGRES = {
         "port": 5432,
         "database": "weather_history_db",
         "user": "postgres",
-        "password": "Shami@2004"
+        "password": "DB_Password"
     },
     "current_db": {
         "host": "localhost",
         "port": 5432,
         "database": "weather_current_db",
         "user": "postgres",
-        "password": "Shami@2004"
+        "password": "DB_Password"
     },
     "crops_db": {
         "host": "localhost",
         "port": 5432,
         "database": "crops_db",
         "user": "postgres",
-        "password": "Shami@2004"
+        "password": "DB_Password"
     }
 }
 
