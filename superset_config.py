@@ -1,1 +1,1 @@
-SECRET_KEY = 'vwtohiByTU5WEZfgrH0aaAKS2Vw0apdhmq6oFsWhrU6lqq6haO3WsYYK'
+SECRET_KEY = 'superset_secret_key'
