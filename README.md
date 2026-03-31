@@ -113,8 +113,8 @@ Final Score =
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Shamitha-2330/Real-Time_crop_recommendation_system
+cd Real-Time_crop_recommendation_system
 ```
 
 ### 2️⃣ Install Dependencies
